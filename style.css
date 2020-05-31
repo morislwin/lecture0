@@ -1,0 +1,41 @@
+body{
+
+	background-color: black;
+	color:white;
+}
+
+h1{
+	color: red;
+	text-align: center;
+}
+
+div{
+
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	color: green;
+	text-align: center;
+	/*background-color: teal;*//*
+	height: 100px;*/
+	width: 400px;
+	margin-left: 50px;
+	border: 3px dotted blue;
+
+}
+
+
+table{
+	border: 2px solid darkgreen;
+	width: 50%;
+}
+
+th,td{
+	border: 1px dotted darkgreen;
+	padding: 5px;
+	text-align: center;
+	color: blue;
+}
+
+th{
+	background-color: lightgray;
+}
